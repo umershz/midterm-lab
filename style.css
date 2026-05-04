@@ -32,23 +32,23 @@ section {
     text-align: center;
 }
 
-/* 🎯 ADD TASK container */
-section:nth-of-type(1) {
+/* ADD TASK */
+.form-section {
     border-left-color: #4a90e2;
 }
 
-/* 🎯 FILTER container */
-section:nth-of-type(2) {
+/* FILTER */
+.filter-controls {
     border-left-color: #27ae60;
 }
 
-/* 🎯 TASK LIST container */
-section:nth-of-type(3) {
+/*  TASK LIST  */
+.task-section {
     border-left-color: #f39c12;
 }
 
-/* 🎯 API container */
-section:nth-of-type(4) {
+/* API */
+.api-section {
     border-left-color: #8e44ad;
 }
 
